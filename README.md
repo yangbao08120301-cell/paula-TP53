@@ -75,7 +75,7 @@ After uploading your ChimeraX screenshot to the images folder as tp53_3kmd.png,
 remove the comment markers around the image line below.
 -->
 
-<!-- ![TP53–DNA structure (3KMD) visualized in ChimeraX](images/tp53_3kmd.png) -->
+[TP53–DNA structure (3KMD) visualized in ChimeraX](images/tp53_3kmd.png)
 
 *Insert your ChimeraX screenshot here after uploading it to the repository.*
 
